@@ -246,6 +246,10 @@ cursor: pointer;
     
 }
     
+.content h1 {
+    font-size: 4em;  
+}
+    
 .side-bar {
     display: none;    
 }
