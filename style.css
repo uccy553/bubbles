@@ -245,5 +245,9 @@ cursor: pointer;
     flex-direction: column;
     
 }
+    
+.side-bar {
+    display: none;    
+}
 }
 
